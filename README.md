@@ -1,7 +1,7 @@
 # github-notes
 This is a repo for notes on git, github, repo, and commit.
 ## Git:
-**Git** is a version control
+**Git** is a version control.
  * Version control software
  * A system used to keep track of many projects
  * Collaboration is made through the projects
