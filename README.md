@@ -10,7 +10,7 @@ This is a repo for notes on git, github, repo, and commit.
 **Github** is the website where you can create different projects that have version control.
  * Web service
  * Gits can be used on Github
- * track differet files
+ * track different files
  * There will be a history of your projects
 ## Repository:
 **Repository** or _repo_ is similar to a project that we can store files onto github. 
